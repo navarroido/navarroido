@@ -1,2 +1,4 @@
-config.bat
 node_modules
+
+# env files (restored after malware cleanup)
+.env*
